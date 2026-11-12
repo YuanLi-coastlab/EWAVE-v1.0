@@ -1,0 +1,3 @@
+Offshore boundary conditions
+time    x      swl   mwl   spectype   Hsw_tt       Hsw_in       Hsw_out    Tsw  angle_sw    Hig_tt    Hig_in  Hig_out   Tig   angle_ig  Lr_sw  Lr_ig  V_wind
+2    7.05167	 0.0  nan       2      0.100000      nan           nan      2.25   0.0      0.0075    nan     nan      nan      nan     nan    nan       0  
